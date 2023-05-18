@@ -38,8 +38,8 @@
   }
   
   .login__button {
-    background-color: #00b5cc;
-    border: 3px solid #b2df28;
+    background-color: #cc00b1;
+    border: 3px solid #a7da0f;
     border-radius: 8px;
     color: #fff;
     cursor: pointer;
@@ -51,7 +51,7 @@
   
   .login__button:disabled {
     background-color: #eee;
-    border: 2px solid #969595;
+    border: 2px solid #646262;
     color: #aaa;
     cursor: auto;
   }
